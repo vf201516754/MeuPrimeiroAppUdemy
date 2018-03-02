@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppUdemy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_segunta_tela">SeguntaTela</string>
+</resources>
